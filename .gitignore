@@ -1,0 +1,16 @@
+# ENVs
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+Logs/
+*.log
+
+# Misc
+.vscode/
+.Cache/
+*.swp
+*.swo

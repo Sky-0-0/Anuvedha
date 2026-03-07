@@ -1,0 +1,718 @@
+[  
+  {
+    "ZoneCode": "CR", "ZoneName": "Central Railway",
+    "Divisions": [
+      {
+        "Code": "NAG", "Name": "Nagpur",
+        "Stations": [
+          {"Code": "NGP", "Name": "Nagpur Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [79.0821, 21.1498, 312]}},
+          {"Code": "WR", "Name": "Wardha Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.6022, 20.7453, 288]}},
+          {"Code": "SEGM", "Name": "Sewagram Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.5870, 20.7350, 285]}},
+          {"Code": "BPQ", "Name": "Ballarshah Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [79.3451, 19.8469, 205]}},
+          {"Code": "AMI", "Name": "Amravati", "Category": "B", "Spatial": {"type": "Point", "coordinates": [77.759, 20.932, 342]}},
+          {"Code": "AMLA", "Name": "Amla Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [78.1272, 21.9242, 329]}},
+          {"Code": "SNSI", "Name": "Sainagar Shirdi", "Category": "B", "Spatial": {"type": "Point", "coordinates": [74.6465, 19.5809, 510]}}
+        ]
+      },
+      {
+        "Code": "BSL", "Name": "Bhusawal",
+        "Stations": [
+          {"Code": "BSL", "Name": "Bhusawal Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.7851, 21.0455, 213]}},
+          {"Code": "JL", "Name": "Jalgaon Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.5626, 21.0077, 226]}},
+          {"Code": "CSN", "Name": "Chalisgaon Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [74.9930, 20.4640, 391]}},
+          {"Code": "PC", "Name": "Pachora Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.3536, 20.6674, 286]}},
+          {"Code": "MMR", "Name": "Manmad Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [74.4373, 20.2530, 551]}}
+        ]
+      },
+      {
+        "Code": "SUR", "Name": "Solapur",
+        "Stations": [
+          {"Code": "SUR", "Name": "Solapur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.9064, 17.6599, 454]}},
+          {"Code": "KWV", "Name": "Kurduwadi Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.4156, 18.0932, 572]}},
+          {"Code": "KLBG", "Name": "Kalaburagi Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.8343, 17.3297, 458]}},
+          {"Code": "KOP", "Name": "Chhatrapati Shahu Maharaj Terminus", "Category": "B", "Spatial": {"type": "Point", "coordinates": [74.2377, 16.7027, 550]}}
+        ]
+      },
+      {
+        "Code": "PUNE", "Name": "Pune",
+        "Stations": [
+          {"Code": "PUNE", "Name": "Pune Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [73.8740, 18.5286, 560]}},
+          {"Code": "LNL", "Name": "Lonavala", "Category": "B", "Spatial": {"type": "Point", "coordinates": [73.4063, 18.7623, 623]}},
+          {"Code": "DD", "Name": "Daund Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [74.5802, 18.4627, 567]}}
+        ]
+      },
+      {
+        "Code": "LTT", "Name": "Mumbai LTT",
+        "Stations": [
+          {"Code": "TNA", "Name": "Thane", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [72.9758, 19.1860, 9]}},
+          {"Code": "DI", "Name": "Diva Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [73.0365, 19.1587, 8]}},
+          {"Code": "LTT", "Name": "Lokmanya Tilak Terminus", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [72.8890, 19.0657, 11]}}
+        ]
+      },
+      {
+        "Code": "CSMT", "Name": "Mumbai CSMT",
+        "Stations": [
+          {"Code": "KYN", "Name": "Kalyan Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [73.1299, 19.2354, 23]}},
+          {"Code": "KJT", "Name": "Karjat Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [73.3246, 18.9102, 41]}},
+          {"Code": "DR", "Name": "Dadar Central", "Category": "A", "Spatial": {"type": "Point", "coordinates": [72.8562, 19.0176, 13]}},
+          {"Code": "CSMT", "Name": "Chhatrapati Shivaji Maharaj Terminus", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [72.8356, 18.9402, 14]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "ECR", "ZoneName": "East Central Railway",
+    "Divisions": [
+      {
+        "Code": "DHN", "Name": "Dhanbad",
+        "Stations": [
+          {"Code": "DHN", "Name": "Dhanbad Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.4304, 23.7957, 240]}},
+          {"Code": "GMO", "Name": "Gomoh Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.1516, 23.8732, 210]}},
+          {"Code": "BKSC", "Name": "Bokaro Steel City", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.1511, 23.6693, 218]}},
+          {"Code": "GAYA", "Name": "Gaya Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.0000, 24.7960, 116]}}
+        ]
+      },
+      {
+        "Code": "SPJ", "Name": "Samastipur",
+        "Stations": [
+          {"Code": "MFP", "Name": "Muzaffarpur Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [85.3910, 26.1197, 69]}},
+          {"Code": "SPJ", "Name": "Samastipur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.7795, 25.8622, 52]}},
+          {"Code": "DBG", "Name": "Darbhanga Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.8970, 26.1522, 55]}},
+          {"Code": "SHC", "Name": "Saharsa Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.5942, 25.8835, 47]}},
+          {"Code": "JYG", "Name": "Jaynagar", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.1377, 26.5965, 52]}},
+          {"Code": "SMI", "Name": "Sitamarhi", "Category": "C", "Spatial": {"type": "Point", "coordinates": [85.4750, 26.5920, 69]}}
+        ]
+      },
+      {
+        "Code": "DNR", "Name": "Danapur",
+        "Stations": [
+          {"Code": "PNBE", "Name": "Patna Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [85.1376, 25.5941, 53]}},
+          {"Code": "RJPB", "Name": "Rajendra Nagar Patna", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.1650, 25.6045, 54]}},
+          {"Code": "HJP", "Name": "Hajipur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.2090, 25.6926, 56]}},
+          {"Code": "ARA", "Name": "Ara Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [84.6634, 25.5611, 60]}},
+          {"Code": "BXR", "Name": "Buxar", "Category": "A", "Spatial": {"type": "Point", "coordinates": [83.9785, 25.5736, 68]}},
+          {"Code": "JAJ", "Name": "Jhajha", "Category": "B", "Spatial": {"type": "Point", "coordinates": [86.0070, 24.7440, 209]}},
+          {"Code": "KRMR", "Name": "Karamnasa", "Category": "E", "Spatial": {"type": "Point", "coordinates": [83.85, 25.28, 80]}}
+        ]
+      },
+      {
+        "Code": "SEE", "Name": "Sonpur",
+        "Stations": [
+          {"Code": "SEE", "Name": "Sonpur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.1783, 25.6951, 57]}},
+          {"Code": "CPR", "Name": "Chhapra Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [84.7270, 25.7831, 58]}},
+          {"Code": "BJU", "Name": "Barauni Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [85.9770, 25.4720, 42]}},
+          {"Code": "KIUL", "Name": "Kiul Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [86.1630, 25.1580, 49]}}
+        ]
+      },
+      {
+        "Code": "DDU", "Name": "Pt. Deen Dayal Upadhyaya",
+        "Stations": [
+          {"Code": "DDU", "Name": "Pt. Deen Dayal Upadhyaya Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [83.0032, 25.3096, 77]}},
+          {"Code": "MGS", "Name": "Mughalsarai", "Category": "A", "Spatial": {"type": "Point", "coordinates": [83.1210, 25.2780, 77]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "ECoR", "ZoneName": "East Coast Railway",
+    "Divisions": [
+      {
+        "Code": "SBP", "Name": "Sambalpur",
+        "Stations": [
+          {"Code": "JSG", "Name": "Jharsuguda Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [84.0062, 21.8554, 202]}},
+          {"Code": "SBP", "Name": "Sambalpur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [83.9750, 21.4669, 160]}},
+          {"Code": "TLGH", "Name": "Titlagarh Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [83.1490, 20.2892, 212]}}
+        ]
+      },
+      {
+        "Code": "KUR", "Name": "Khurda Road",
+        "Stations": [
+          {"Code": "BBS", "Name": "Bhubaneswar", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [85.8245, 20.2961, 45]}},
+          {"Code": "CTC", "Name": "Cuttack Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.8828, 20.4625, 36]}},
+          {"Code": "KUR", "Name": "Khurda Road Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.6226, 20.1880, 64]}},
+          {"Code": "PURI", "Name": "Puri", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [85.8312, 19.8135, 5]}},
+          {"Code": "BAM", "Name": "Brahmapur", "Category": "A", "Spatial": {"type": "Point", "coordinates": [84.7941, 19.3149, 22]}}
+        ]
+      },
+      {
+        "Code": "WAT", "Name": "Waltair",
+        "Stations": [
+          {"Code": "VSKP", "Name": "Visakhapatnam", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [83.2185, 17.6868, 9]}},
+          {"Code": "VZM", "Name": "Vizianagaram Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [83.3956, 18.1067, 95]}},
+          {"Code": "RGDA", "Name": "Rayagada Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [83.4166, 19.1726, 287]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "KR", "ZoneName": "Konkan Railway",
+    "Divisions": [
+      {
+        "Code": "KR", "Name": "Konkan",
+        "Stations": [
+          {"Code": "RN", "Name": "Ratnagiri", "Category": "A", "Spatial": {"type": "Point", "coordinates": [73.312, 16.99, 11]}},
+          {"Code": "ROHA", "Name": "Roha", "Category": "A", "Spatial": {"type": "Point", "coordinates": [73.119, 18.436, 16]}},
+          {"Code": "MAO", "Name": "Madgaon", "Category": "A", "Spatial": {"type": "Point", "coordinates": [73.986, 15.284, 9]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "NCR", "ZoneName": "North Central Railway",
+    "Divisions": [
+      {
+        "Code": "AGC", "Name": "Agra",
+        "Stations": [
+          {"Code": "AGC", "Name": "Agra Cantt", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.008, 27.176, 169]}},
+          {"Code": "TDL", "Name": "Tundla Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.26, 27.15, 168]}}
+        ]
+      },
+      {
+        "Code": "JHS", "Name": "Jhansi",
+        "Stations": [
+          {"Code": "BLS", "Name": "Balsagar", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.65, 23.1667, 212]}},
+          {"Code": "BINA", "Name": "Bina Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [78.2, 24.183, 411]}},
+          {"Code": "VGLJ", "Name": "Virangali", "Category": "D", "Spatial": {"type": "Point", "coordinates": [78.583, 25.456, 290]}},
+          {"Code": "JHS", "Name": "Jhansi Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.573, 25.449, 285]}},
+          {"Code": "GWL", "Name": "Gwalior", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.229, 26.218, 197]}},
+          {"Code": "ORAI", "Name": "Orai", "Category": "C", "Spatial": {"type": "Point", "coordinates": [79.454, 25.996, 142]}}
+        ]
+      },
+      {
+        "Code": "PRYJ", "Name": "Prayagraj",
+        "Stations": [
+          {"Code": "ALJN", "Name": "Aligarh Junction", "Category": "C", "Spatial": {"type": "Point", "coordinates": [77.942, 27.896, 164]}},
+          {"Code": "MZP", "Name": "Mirzapur", "Category": "A", "Spatial": {"type": "Point", "coordinates": [82.568, 25.144, 86]}},
+          {"Code": "CAR", "Name": "Chunar Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [82.876, 25.126, 84]}},
+          {"Code": "SBDR", "Name": "Sonbhadra", "Category": "C", "Spatial": {"type": "Point", "coordinates": [82.708, 24.411, 289]}},
+          {"Code": "PCOI", "Name": "Prayagraj Chheoki Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [81.874, 25.37, 93]}},
+          {"Code": "PRYJ", "Name": "Prayagraj Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [81.844, 25.435, 98]}},
+          {"Code": "CNB", "Name": "Kanpur Central", "Category": "A", "Spatial": {"type": "Point", "coordinates": [80.347, 26.449, 129]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "ER", "ZoneName": "Eastern Railway",
+    "Divisions": [
+      {
+        "Code": "ASN", "Name": "Asansol",
+        "Stations": [
+          {"Code": "JSME", "Name": "Jasidih Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.65, 24.515, 80]}},
+          {"Code": "ASN", "Name": "Asansol Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.983, 23.685, 97]}}
+        ]
+      },
+      {
+        "Code": "HWH", "Name": "Howrah",
+        "Stations": [
+          {"Code": "BWN", "Name": "Bardhaman Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [87.855, 23.255, 37]}},
+          {"Code": "HWH", "Name": "Howrah Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [88.342, 22.585, 10]}},
+          {"Code": "KOAA", "Name": "Kolkata Chitpur", "Category": "A", "Spatial": {"type": "Point", "coordinates": [88.369, 22.586, 11]}},
+          {"Code": "ST", "Name": "Shalimar", "Category": "A", "Spatial": {"type": "Point", "coordinates": [88.312, 22.563, 8]}}
+        ]
+      },
+      {
+        "Code": "MLDT", "Name": "Malda",
+        "Stations": [
+          {"Code": "BUI", "Name": "Bui", "Category": "D", "Spatial": {"type": "Point", "coordinates": [86.944, 25.413, 42]}},
+          {"Code": "BGP", "Name": "Bhagalpur", "Category": "B", "Spatial": {"type": "Point", "coordinates": [86.984, 25.244, 53]}},
+          {"Code": "MLDT", "Name": "Malda Town", "Category": "A", "Spatial": {"type": "Point", "coordinates": [88.145, 25.01, 29]}}
+        ]
+      },
+      {
+        "Code": "SDAH", "Name": "Sealdah",
+        "Stations": [
+          {"Code": "KNJ", "Name": "Krishnanagar City Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [88.52, 23.4, 14]}},
+          {"Code": "BT", "Name": "Barasat Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [88.48, 22.72, 10]}},
+          {"Code": "SDAH", "Name": "Sealdah", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [88.37, 22.565, 8]}}
+        ]
+      }
+    ]
+  },
+
+  {
+    "ZoneCode": "NER", "ZoneName": "North Eastern Railway",
+    "Divisions": [
+      {
+        "Code": "BSB", "Name": "Varanasi",
+        "Stations": [
+          {"Code": "BSB", "Name": "Varanasi Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [82.974, 25.322, 76]}},
+          {"Code": "SLN", "Name": "Sultanpur", "Category": "B", "Spatial": {"type": "Point", "coordinates": [82.07, 26.26, 89]}},
+          {"Code": "AMH", "Name": "Azamgarh", "Category": "C", "Spatial": {"type": "Point", "coordinates": [83.183, 26.076, 77]}}
+        ]
+      },
+      {
+        "Code": "GKP", "Name": "Gorakhpur",
+        "Stations": [
+          {"Code": "GKP", "Name": "Gorakhpur Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [83.299, 26.761, 84]}},
+          {"Code": "BST", "Name": "Basti", "Category": "A", "Spatial": {"type": "Point", "coordinates": [82.77, 26.81, 91]}},
+          {"Code": "PPC", "Name": "Pipraich", "Category": "D", "Spatial": {"type": "Point", "coordinates": [83.578, 27.066, 85]}}
+        ]
+      },
+      {
+        "Code": "IZZ", "Name": "Izzatnagar",
+        "Stations": [
+          {"Code": "BE", "Name": "Bareilly Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [79.43, 28.367, 174]}},
+          {"Code": "IZZ", "Name": "Izzatnagar", "Category": "B", "Spatial": {"type": "Point", "coordinates": [79.43, 28.42, 168]}}
+        ]
+      },
+      {
+        "Code": "LKO", "Name": "Lucknow",
+        "Stations": [
+          {"Code": "LKO", "Name": "Lucknow Charbagh", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [80.947, 26.846, 123]}},
+          {"Code": "BBK", "Name": "Barabanki Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [81.1, 26.9, 124]}},
+          {"Code": "LJN", "Name": "Lucknow Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [80.946, 26.839, 124]}},
+          {"Code": "NH", "Name": "Nihalgarh", "Category": "D", "Spatial": {"type": "Point", "coordinates": [81.039, 26.389, 129]}},
+          {"Code": "STPL", "Name": "Sitapur City", "Category": "D", "Spatial": {"type": "Point", "coordinates": [80.65, 27.58, 130]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "NFR", "ZoneName": "Northeast Frontier Railway",
+    "Divisions": [
+      {
+        "Code": "ALP", "Name": "Alipurduar",
+        "Stations": [
+          {"Code": "APDJ", "Name": "Alipurduar Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [89.516, 26.483, 112]}},
+          {"Code": "SGUJ", "Name": "Siliguri Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [88.42, 26.7, 122]}}
+        ]
+      },
+      {
+        "Code": "GHY", "Name": "Guwahati",
+        "Stations": [
+          {"Code": "GHY", "Name": "Guwahati", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [91.736, 26.156, 55]}},
+          {"Code": "KYQ", "Name": "Kamakhya", "Category": "A", "Spatial": {"type": "Point", "coordinates": [91.694, 26.163, 55]}}
+        ]
+      },
+      {
+        "Code": "KIR", "Name": "Katihar",
+        "Stations": [
+          {"Code": "KIR", "Name": "Katihar Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [87.579, 25.548, 37]}}
+        ]
+      },
+      {
+        "Code": "LDM", "Name": "Lumding",
+        "Stations": [
+          {"Code": "LMG", "Name": "Lumding Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [93.233, 26.52, 130]}}
+        ]
+      },
+      {
+        "Code": "NJP", "Name": "New Jalpaiguri",
+        "Stations": [
+          {"Code": "NJP", "Name": "New Jalpaiguri", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [88.432, 26.688, 126]}}
+        ]
+      },
+      {
+        "Code": "TSK", "Name": "Tinsukia",
+        "Stations": [
+          {"Code": "DBRG", "Name": "Dibrugarh", "Category": "A", "Spatial": {"type": "Point", "coordinates": [94.911, 27.472, 115]}},
+          {"Code": "NTSK", "Name": "Tinsukia Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [95.35, 27.49, 121]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "NR", "ZoneName": "Northern Railway",
+    "Divisions": [
+      {
+        "Code": "DLI", "Name": "Delhi",
+        "Stations": [
+          {"Code": "DLI", "Name": "Delhi Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [77.227, 28.667, 216]}},
+          {"Code": "NDLS", "Name": "New Delhi", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [77.218, 28.613, 216]}},
+          {"Code": "NZM", "Name": "Hazrat Nizamuddin", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [77.251, 28.588, 213]}},
+          {"Code": "ANVT", "Name": "Anand Vihar Terminal", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.315, 28.651, 213]}},
+          {"Code": "DDN", "Name": "Dehradun", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.041, 30.316, 640]}},
+          {"Code": "DEE", "Name": "Delhi Sarai Rohilla", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.186, 28.668, 218]}},
+          {"Code": "GZB", "Name": "Ghazibad", "Category": "B", "Spatial": {"type": "Point", "coordinates": [77.436, 28.668, 216]}},
+          {"Code": "OKA", "Name": "Okhla", "Category": "B", "Spatial": {"type": "Point", "coordinates": [77.283, 28.551, 216]}}
+        ]
+      },
+      {
+        "Code": "FZR", "Name": "Firozpur",
+        "Stations": [
+          {"Code": "ASR", "Name": "Amritsar", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [74.8725, 31.634, 234]}},
+          {"Code": "LDH", "Name": "Ludhiana", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.85, 30.9, 244]}},
+          {"Code": "FZR", "Name": "Firozpur Cantonment", "Category": "B", "Spatial": {"type": "Point", "coordinates": [74.613, 30.933, 198]}},
+          {"Code": "PTK", "Name": "Patiala", "Category": "C", "Spatial": {"type": "Point", "coordinates": [76.4, 30.33, 258]}}
+        ]
+      },
+      {
+        "Code": "JAM", "Name": "Jammu",
+        "Stations": [
+          {"Code": "JAT", "Name": "Jammu Tawi", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [74.873, 32.69, 327]}},
+          {"Code": "KTHU", "Name": "Kathua", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.489, 32.373, 330]}},
+          {"Code": "SVDK", "Name": "Shri Mata Vaishno Devi Katra", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.067, 32.974, 824]}},
+          {"Code": "UHP", "Name": "Udhampur", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.137, 32.933, 847]}}
+        ]
+      },
+      {
+        "Code": "MB", "Name": "Moradabad",
+        "Stations": [
+          {"Code": "HW", "Name": "Haridwar", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.157, 29.946, 294]}},
+          {"Code": "MB", "Name": "Moradabad", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.776, 28.839, 202]}}
+        ]
+      },
+      {
+        "Code": "UMB", "Name": "Ambala",
+        "Stations": [
+          {"Code": "CDG", "Name": "Chandigarh", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.7794, 30.7333, 365]}},
+          {"Code": "KLK", "Name": "Kalka", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.936, 30.84, 656]}},
+          {"Code": "UMB", "Name": "Ambala Cantt", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.778, 30.381, 276]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "NWR", "ZoneName": "North Western Railway",
+    "Divisions": [
+      {
+        "Code": "AII", "Name": "Ajmer",
+        "Stations": [
+          {"Code": "AII", "Name": "Ajmer Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [74.639, 26.468, 485]}}
+        ]
+      },
+      {
+        "Code": "BKN", "Name": "Bikaner",
+        "Stations": [
+          {"Code": "BKN", "Name": "Bikaner Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [73.316, 28.022, 231]}},
+          {"Code": "LGH", "Name": "Lalgarh Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [73.291, 28.04, 233]}}
+        ]
+      },
+      {
+        "Code": "JP", "Name": "Jaipur",
+        "Stations": [
+          {"Code": "JP", "Name": "Jaipur", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [75.798, 26.921, 431]}},
+          {"Code": "JAJ", "Name": "Jhajha", "Category": "B", "Spatial": {"type": "Point", "coordinates": [86.007, 24.744, 209]}},
+          {"Code": "PHN", "Name": "Phulera Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.238, 26.868, 401]}}
+        ]
+      },
+      {
+        "Code": "JU", "Name": "Jodhpur",
+        "Stations": [
+          {"Code": "JU", "Name": "Jodhpur", "Category": "A", "Spatial": {"type": "Point", "coordinates": [73.035, 26.297, 241]}},
+          {"Code": "UDZ", "Name": "Udaipur City", "Category": "A", "Spatial": {"type": "Point", "coordinates": [73.712, 24.585, 585]}},
+          {"Code": "HRY", "Name": "Hanumangarh Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [74.321, 29.581, 183]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "SCR", "ZoneName": "South Central Railway",
+    "Divisions": [
+      {
+        "Code": "GTL", "Name": "Guntakal",
+        "Stations": [
+          {"Code": "GTL", "Name": "Guntakal Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.376, 15.176, 613]}},
+          {"Code": "JTJ", "Name": "Jolarpettai Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [78.575, 12.570, 269]}},
+          {"Code": "KPD", "Name": "Katpadi Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [79.164, 12.827, 185]}},
+          {"Code": "TPTY", "Name": "Tirupati Main", "Category": "B", "Spatial": {"type": "Point", "coordinates": [79.419, 13.629, 151]}},
+          {"Code": "IGP", "Name": "Igohal", "Category": "E", "Spatial": {"type": "Point", "coordinates": [77.417, 16.733, 450]}}
+        ]
+      },
+      {
+        "Code": "NED", "Name": "Nanded",
+        "Stations": [
+          {"Code": "NED", "Name": "Hazur Sahib Nanded", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.32, 19.16, 359]}},
+          {"Code": "PBN", "Name": "Parbhani Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.77, 19.27, 357]}}
+        ]
+      },
+      {
+        "Code": "SC", "Name": "Secunderabad",
+        "Stations": [
+          {"Code": "SC", "Name": "Secunderabad Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [78.501, 17.439, 539]}},
+          {"Code": "HYB", "Name": "Hyderabad Decan", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.474, 17.385, 542]}},
+          {"Code": "KZJ", "Name": "Kazipet Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [79.53, 17.98, 261]}},
+          {"Code": "WL", "Name": "Warangal", "Category": "A", "Spatial": {"type": "Point", "coordinates": [79.6, 17.98, 235]}},
+          {"Code": "KTYM", "Name": "Kazhipet Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [79.55, 18.00, 550]}},
+          {"Code": "NK", "Name": "Nagarkurnool", "Category": "C", "Spatial": {"type": "Point", "coordinates": [78.2833, 16.6333, 312]}},
+          {"Code": "BDCR", "Name": "Bhadrachalam Road", "Category": "D", "Spatial": {"type": "Point", "coordinates": [80.63, 17.55, 90]}}
+
+        ]
+      },
+      {
+        "Code": "VJA", "Name": "Vijayawada",
+        "Stations": [
+          {"Code": "RU", "Name": "Renigunta Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [79.428, 13.634, 115]}},
+          {"Code": "RDM", "Name": "Reddipalem", "Category": "E", "Spatial": {"type": "Point", "coordinates": [80.283, 16.233, 50]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "SCoR", "ZoneName": "South Coast Railway",
+    "Divisions": [
+      {
+        "Code": "GNT", "Name": "Guntur",
+        "Stations": [
+          {"Code": "GNT", "Name": "Guntur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [80.44, 16.3, 38]}},
+          {"Code": "NRT", "Name": "Narasaraopet", "Category": "B", "Spatial": {"type": "Point", "coordinates": [80.07, 16.24, 77]}}
+        ]
+      },
+      {
+        "Code": "VJA", "Name": "Vijayawada",
+        "Stations": [
+          {"Code": "BZA", "Name": "Vijayawada Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [80.618, 16.519, 23]}},
+          {"Code": "EE", "Name": "Eluru", "Category": "B", "Spatial": {"type": "Point", "coordinates": [81.1, 16.71, 26]}}
+        ]
+      },
+      {
+        "Code": "VSKP", "Name": "Visakhapatnam",
+        "Stations": [
+          {"Code": "VSKP", "Name": "Visakhapatnam", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [83.2185, 17.6868, 12]}},
+          {"Code": "SCM", "Name": "Simhachalam", "Category": "B", "Spatial": {"type": "Point", "coordinates": [83.25, 17.75, 25]}},
+          {"Code": "VSG", "Name": "Vasco da Gama", "Category": "B", "Spatial": {"type": "Point", "coordinates": [73.810, 15.402, 7]}}
+        ]
+      }
+    ]
+  },
+
+  {
+    "ZoneCode": "SECR", "ZoneName": "South East Central Railway",
+    "Divisions": [
+      {
+        "Code": "BSP", "Name": "Bilaspur",
+        "Stations": [
+          {"Code": "BSP", "Name": "Bilaspur Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [82.149, 22.077, 292]}},
+          {"Code": "NGP", "Name": "Nagpur Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [79.088, 21.15, 310]}},
+          {"Code": "DURG", "Name": "Durg", "Category": "A", "Spatial": {"type": "Point", "coordinates": [81.28, 21.19, 287]}},
+          {"Code": "R", "Name": "Raipur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [81.633, 21.237, 298]}},
+          {"Code": "BYT", "Name": "Bhatapara", "Category": "B", "Spatial": {"type": "Point", "coordinates": [82.211, 21.655, 288]}},
+          {"Code": "G", "Name": "Gondia Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [80.196, 21.462, 311]}},
+          {"Code": "KRBA", "Name": "Korba", "Category": "B", "Spatial": {"type": "Point", "coordinates": [82.753, 22.347, 316]}},
+          {"Code": "ANUP", "Name": "Anuppur", "Category": "C", "Spatial": {"type": "Point", "coordinates": [81.693, 23.105, 458]}},
+          {"Code": "CWA", "Name": "Chhindwara Junction", "Category": "C", "Spatial": {"type": "Point", "coordinates": [78.937, 21.816, 354]}}
+        ]
+      },
+      {
+        "Code": "NGP", "Name": "Nagpur",
+        "Stations": [
+          {"Code": "NGP", "Name": "Nagpur Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [79.088, 21.15, 310]}},
+          {"Code": "G", "Name": "Gondia Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [80.196, 21.462, 311]}},
+          {"Code": "CWA", "Name": "Chhindwara Junction", "Category": "C", "Spatial": {"type": "Point", "coordinates": [78.937, 21.816, 354]}}
+        ]
+      },
+      {
+        "Code": "R", "Name": "Raipur",
+        "Stations": [
+          {"Code": "DURG", "Name": "Durg", "Category": "A", "Spatial": {"type": "Point", "coordinates": [81.28, 21.19, 287]}},
+          {"Code": "R", "Name": "Raipur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [81.633, 21.237, 298]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "SER", "ZoneName": "South Eastern Railway",
+    "Divisions": [
+      {
+        "Code": "ADRA", "Name": "Adra",
+        "Stations": [
+          {"Code": "ADRA", "Name": "Adra Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [86.673, 23.36, 125]}},
+          {"Code": "BQA", "Name": "Bankura Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [87.07, 23.23, 75]}}
+        ]
+      },
+      {
+        "Code": "CKP", "Name": "Chakradharpur",
+        "Stations": [
+          {"Code": "ROU", "Name": "Rourkela", "Category": "A", "Spatial": {"type": "Point", "coordinates": [84.8167, 22.25, 219]}},
+          {"Code": "CKP", "Name": "Chakradharpur", "Category": "B", "Spatial": {"type": "Point", "coordinates": [85.629, 22.677, 227]}}
+        ]
+      },
+      {
+        "Code": "KGP", "Name": "Kharagpur",
+        "Stations": [
+          {"Code": "KGP", "Name": "Kharagpur Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [87.323, 22.343, 29]}},
+          {"Code": "TATA", "Name": "Tatanagar Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [86.195, 22.785, 159]}},
+          {"Code": "MDN", "Name": "Midnapore", "Category": "B", "Spatial": {"type": "Point", "coordinates": [87.32, 22.43, 32]}},
+          {"Code": "MDP", "Name": "Madhipur", "Category": "E", "Spatial": {"type": "Point", "coordinates": [86.817, 22.517, 150]}}
+        ]
+      },
+      {
+        "Code": "RNC", "Name": "Ranchi",
+        "Stations": [
+          {"Code": "RNC", "Name": "Ranchi Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [85.321, 23.36, 629]}},
+          {"Code": "HTE", "Name": "Hatia", "Category": "B", "Spatial": {"type": "Point", "coordinates": [85.32, 23.33, 650]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "SR", "ZoneName": "Southern Railway",
+    "Divisions": [
+      {
+        "Code": "MAS", "Name": "Chennai",
+        "Stations": [
+          {"Code": "MAS", "Name": "Chennai Central", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [80.278, 13.082, 6]}},
+          {"Code": "MS", "Name": "Chennai Egmore", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [80.23, 13.07, 7]}},
+          {"Code": "TBM", "Name": "Tambaram", "Category": "A", "Spatial": {"type": "Point", "coordinates": [80.14, 12.92, 25]}},
+          {"Code": "CCT", "Name": "Chengannur", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.55, 9.15, 15]}},
+          {"Code": "BOW", "Name": "Bowlur", "Category": "E", "Spatial": {"type": "Point", "coordinates": [80.278, 13.082, 6]}}
+        ]
+      },
+      {
+        "Code": "MDU", "Name": "Madurai",
+        "Stations": [
+          {"Code": "MDU", "Name": "Madurai Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.13, 9.92, 136]}},
+          {"Code": "JOG", "Name": "Jolarpettai Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [78.35, 12.98, 270]}},
+          {"Code": "KPI", "Name": "Kollam Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.541, 8.885, 16]}},
+          {"Code": "CRJ", "Name": "Rajapalayam", "Category": "D", "Spatial": {"type": "Point", "coordinates": [77.550, 9.433, 160]}},
+          {"Code": "KDD", "Name": "Kadadavur", "Category": "E", "Spatial": {"type": "Point", "coordinates": [77.75, 9.25, 150]}},
+          {"Code": "SSM", "Name": "Someswara", "Category": "E", "Spatial": {"type": "Point", "coordinates": [79.317, 10.567, 10]}}
+        ]
+      },
+      {
+        "Code": "PAL", "Name": "Palakkad",
+        "Stations": [
+          {"Code": "CBE", "Name": "Coimbatore Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.966, 11.017, 411]}},
+          {"Code": "MAQ", "Name": "Mangalore Central", "Category": "A", "Spatial": {"type": "Point", "coordinates": [74.855, 12.861, 22]}},
+          {"Code": "ALLP", "Name": "Alappuzha", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.339, 9.498, 12]}},
+          {"Code": "CLT", "Name": "Kozhikode", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.781, 11.256, 18]}},
+          {"Code": "PGT", "Name": "Palakkad Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.652, 10.773, 162]}},
+          {"Code": "SRR", "Name": "Shoranur Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.280, 10.761, 28]}},
+          {"Code": "KPG", "Name": "Kasaragod", "Category": "C", "Spatial": {"type": "Point", "coordinates": [74.985, 12.513, 59]}},
+          {"Code": "PTA", "Name": "Pattambi", "Category": "C", "Spatial": {"type": "Point", "coordinates": [76.2167, 10.6667, 21]}}
+        ]
+      },
+      {
+        "Code": "TPJ", "Name": "Tiruchchirappalli",
+        "Stations": [
+          {"Code": "SA", "Name": "Salem Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.15, 11.66, 288]}},
+          {"Code": "TPJ", "Name": "Tiruchchirappalli Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [78.686, 10.78, 85]}},
+          {"Code": "MUT", "Name": "Muthugoundenpudur", "Category": "C", "Spatial": {"type": "Point", "coordinates": [77.2833, 10.6167, 212]}}
+        ]
+      },
+      {
+        "Code": "TVC", "Name": "Thiruvananthapuram",
+        "Stations": [
+          {"Code": "ERN", "Name": "Ernakulam Town", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.33, 9.98, 10]}},
+          {"Code": "ERS", "Name": "Ernakulam Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.33, 9.98, 10]}},
+          {"Code": "TCR", "Name": "Tirunelveli", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.68, 8.72, 15]}},
+          {"Code": "TVC", "Name": "Thiruvananthapuram Central", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.914, 8.571, 13]}},
+          {"Code": "CAPE", "Name": "Kanyakumari", "Category": "B", "Spatial": {"type": "Point", "coordinates": [77.55, 8.08, 10]}},
+          {"Code": "KMT", "Name": "Kottayam", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.52, 9.59, 15]}},
+          {"Code": "KNE", "Name": "Kollam", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.54, 8.88, 16]}},
+          {"Code": "KPI", "Name": "Kollam Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.541, 8.885, 16]}},
+          {"Code": "KRN", "Name": "Kottarakkara", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.65, 9.15, 20]}},
+          {"Code": "NCJ", "Name": "Nagercoil Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [77.431, 8.175, 20]}},
+          {"Code": "NZB", "Name": "Nagercoil", "Category": "B", "Spatial": {"type": "Point", "coordinates": [77.43, 8.18, 20]}},
+          {"Code": "QLN", "Name": "Quilon", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.56, 8.88, 16]}},
+          {"Code": "RMM", "Name": "Rameswaram", "Category": "B", "Spatial": {"type": "Point", "coordinates": [79.3, 9.28, 10]}},
+          {"Code": "TEN", "Name": "Tenkasi", "Category": "B", "Spatial": {"type": "Point", "coordinates": [77.25, 9.25, 15]}},
+          {"Code": "TND", "Name": "Tindivanam", "Category": "B", "Spatial": {"type": "Point", "coordinates": [79.52, 12.25, 20]}},
+          {"Code": "MRGA", "Name": "Marthandam", "Category": "E", "Spatial": {"type": "Point", "coordinates": [77.23, 8.38, 15]}},
+          {"Code": "MBNR", "Name": "Manakudi", "Category": "E", "Spatial": {"type": "Point", "coordinates": [76.55, 8.75, 15]}},
+          {"Code": "NLDA", "Name": "Nedumangad", "Category": "E", "Spatial": {"type": "Point", "coordinates": [77.03, 8.58, 15]}},
+          {"Code": "NS", "Name": "Neyyattinkara", "Category": "E", "Spatial": {"type": "Point", "coordinates": [77.05, 8.42, 15]}},
+          {"Code": "RJY", "Name": "Rajakkamangalam", "Category": "E", "Spatial": {"type": "Point", "coordinates": [77.35, 8.23, 15]}},
+          {"Code": "SPE", "Name": "Sengottai", "Category": "E", "Spatial": {"type": "Point", "coordinates": [77.38, 8.85, 15]}},
+          {"Code": "SPT", "Name": "Sivaganga", "Category": "E", "Spatial": {"type": "Point", "coordinates": [78.23, 9.58, 15]}},
+          {"Code": "VKB", "Name": "Varkala", "Category": "E", "Spatial": {"type": "Point", "coordinates": [76.72, 8.82, 15]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "SWR", "ZoneName": "South Western Railway",
+    "Divisions": [
+      {
+        "Code": "BLR", "Name": "Bengaluru",
+        "Stations": [
+          {"Code": "SBC", "Name": "Bengaluru City", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [77.567, 12.976, 914]}},
+          {"Code": "YPR", "Name": "Yesvantpur Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.556, 13.082, 914]}},
+          {"Code": "HAS", "Name": "Hassan", "Category": "C", "Spatial": {"type": "Point", "coordinates": [76.1, 13.0, 969]}}
+        ]
+      },
+      {
+        "Code": "MYS", "Name": "Mysuru",
+        "Stations": [
+          {"Code": "MYS", "Name": "Mysuru Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [76.655, 12.295, 763]}},
+          {"Code": "MYA", "Name": "Mandya", "Category": "B", "Spatial": {"type": "Point", "coordinates": [76.85, 12.52, 678]}}
+        ]
+      },
+      {
+        "Code": "UBL", "Name": "Hubballi",
+        "Stations": [
+          {"Code": "UBL", "Name": "Hubballi Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.113, 15.361, 671]}},
+          {"Code": "DWR", "Name": "Dharwad", "Category": "B", "Spatial": {"type": "Point", "coordinates": [75.006, 15.458, 748]}},
+          {"Code": "HPT", "Name": "Hospet Junction", "Category": "C", "Spatial": {"type": "Point", "coordinates": [76.39, 15.26, 569]}},
+          {"Code": "CHT", "Name": "Chitradurga", "Category": "D", "Spatial": {"type": "Point", "coordinates": [76.4, 14.22, 732]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "WCR", "ZoneName": "West Central Railway",
+    "Divisions": [
+      {
+        "Code": "BPL", "Name": "Bhopal",
+        "Stations": [
+          {"Code": "BPL", "Name": "Bhopal Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.4, 23.25, 528]}},
+          {"Code": "ET", "Name": "Itarsi Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.759, 22.624, 344]}},
+          {"Code": "HBD", "Name": "Habibganj", "Category": "A", "Spatial": {"type": "Point", "coordinates": [77.41, 23.25, 528]}}
+        ]
+      },
+      {
+        "Code": "JBP", "Name": "Jabalpur",
+        "Stations": [
+          {"Code": "JBP", "Name": "Jabalpur", "Category": "A", "Spatial": {"type": "Point", "coordinates": [79.95, 23.16, 393]}},
+          {"Code": "KTE", "Name": "Katni Junction", "Category": "B", "Spatial": {"type": "Point", "coordinates": [80.8, 23.83, 364]}},
+          {"Code": "SHAH", "Name": "Shahdol", "Category": "C", "Spatial": {"type": "Point", "coordinates": [81.346, 23.284, 470]}}
+        ]
+      },
+      {
+        "Code": "KTA", "Name": "Kota",
+        "Stations": [
+          {"Code": "KOTA", "Name": "Kota Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.82, 25.18, 266]}}
+        ]
+      }
+    ]
+  },
+  {
+    "ZoneCode": "WR", "ZoneName": "Western Railway",
+    "Divisions": [
+      {
+        "Code": "ADI", "Name": "Ahmedabad",
+        "Stations": [
+          {"Code": "ADI", "Name": "Ahmedabad Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [72.57, 22.99, 54]}}
+        ]
+      },
+      {
+        "Code": "BRC", "Name": "Vadodara",
+        "Stations": [
+          {"Code": "BRC", "Name": "Vadodara Junction", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [73.18, 22.3, 37]}}
+        ]
+      },
+      {
+        "Code": "BVP", "Name": "Bhavnagar",
+        "Stations": [
+          {"Code": "BVC", "Name": "Bhavnagar Terminus", "Category": "B", "Spatial": {"type": "Point", "coordinates": [72.152, 21.765, 21]}}
+        ]
+      },
+      {
+        "Code": "MMCT", "Name": "Mumbai Central",
+        "Stations": [
+          {"Code": "MMCT", "Name": "Mumbai Central", "Category": "A1", "Spatial": {"type": "Point", "coordinates": [72.82, 19.0, 7]}},
+          {"Code": "BDTS", "Name": "Bandra Terminus", "Category": "A", "Spatial": {"type": "Point", "coordinates": [72.84, 19.05, 8]}},
+          {"Code": "BVI", "Name": "Borivali", "Category": "A", "Spatial": {"type": "Point", "coordinates": [72.856, 19.234, 18]}}
+        ]
+      },
+      {
+        "Code": "R", "Name": "Ratlam",
+        "Stations": [
+          {"Code": "INDB", "Name": "Indore Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.831, 22.419, 556]}},
+          {"Code": "RTM", "Name": "Ratlam Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.04, 23.33, 180]}},
+          {"Code": "UJN", "Name": "Ujjain Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [75.777, 23.179, 512]}}
+        ]
+      },
+      {
+        "Code": "RJT", "Name": "Rajkot",
+        "Stations": [
+          {"Code": "RJT", "Name": "Rajkot Junction", "Category": "A", "Spatial": {"type": "Point", "coordinates": [70.78, 22.3, 128]}},
+          {"Code": "BHUJ", "Name": "Bhuj", "Category": "B", "Spatial": {"type": "Point", "coordinates": [69.667, 23.253, 111]}},
+          {"Code": "GIMB", "Name": "Gandhidham", "Category": "B", "Spatial": {"type": "Point", "coordinates": [70.133, 23.073, 45]}},
+          {"Code": "OKHA", "Name": "Okha", "Category": "B", "Spatial": {"type": "Point", "coordinates": [69.083, 22.467, 10]}}
+        ]
+      }
+    ]
+  }
+]
