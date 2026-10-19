@@ -1,0 +1,8 @@
+[
+  {"Class": "WAG12B", "Service": "G", "Traction": "AC", "Power": 12000, "MPS": 120, "TareWeight": 180, "CL": 1820, "IA": 12, "IB": 24, "IC": 48, "M12": 144, "IOH": 234, "POH": 494, "IOHMD": 1200000, "POHMD": 2400000, "REKM": 310000, "FOR": 0.10},
+  {"Class": "WAG7", "Service": "G", "Traction": "AC", "Power": 5000,  "MPS": 100, "TareWeight": 123, "CL": 1560, "IA": 6,  "IB": 12, "IC": 24, "M12": 72,  "IOH": 144, "POH": 288, "IOHMD": 350000,  "POHMD": 700000,  "REKM": 230000, "FOR": 0.35},
+  {"Class": "WAG9", "Service": "G", "Traction": "AC", "Power": 6350,  "MPS": 100, "TareWeight": 123, "CL": 1820, "IA": 12, "IB": 24, "IC": 48, "M12": 144, "IOH": 234, "POH": 494, "IOHMD": 1200000, "POHMD": 2400000, "REKM": 285000, "FOR": 0.25},
+  {"Class": "WAP5", "Service": "P", "Traction": "AC", "Power": 5400,  "MPS": 160, "TareWeight": 70,  "CL": 1820, "IA": 12, "IB": 24, "IC": 48, "M12": 144, "IOH": 234, "POH": 494, "IOHMD": 800000,  "POHMD": 1600000, "REKM": 375000, "FOR": 0.15},
+  {"Class": "WAP7", "Service": "P", "Traction": "AC", "Power": 6125,  "MPS": 140, "TareWeight": 123, "CL": 1820, "IA": 12, "IB": 24, "IC": 48, "M12": 144, "IOH": 234, "POH": 494, "IOHMD": 1200000, "POHMD": 2400000, "REKM": 355000, "FOR": 0.28},
+  {"Class": "WDG4G", "Service": "G", "Traction": "DIESEL", "Power": 4500, "MPS": 100, "TareWeight": 128, "CL": 1560, "IA": 12, "IB": 24, "IC": 48, "M12": 144, "IOH": 234, "POH": 494, "IOHMD": 600000, "POHMD": 1200000, "REKM": 205000, "FOR": 0.90}
+]

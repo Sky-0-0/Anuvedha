@@ -1,0 +1,26 @@
+[project]
+name = "Agradrishti"
+version = "0.2.0"
+requires-python = "==3.12.*"
+dependencies = ["numpy", "onnxscript", "orjson", "fastapi", "uvicorn", "jinja2","rich", "scipy", "torch", "zstandard",]
+
+[tool.uv]
+package = false
+conflicts = [[{ extra = "cpu" }, { extra = "cuda" }, { extra = "directml" }, { extra = "openvino" }, { extra = "qnn" }, { extra = "tensorrt" }]]
+
+[project.optional-dependencies]
+cuda = ["onnxruntime-gpu", "torch", "torch-geometric"]
+tensorrt = ["onnxruntime-gpu"]
+rocm = ["torch"]
+openvino = ["onnxruntime", "onnxruntime-openvino", "openvino"]
+qnn = ["onnxruntime", "onnxruntime-qnn"]
+directml = ["onnxruntime-directml; sys_platform == 'win32'", "torch-directml; sys_platform == 'win32'", "torch-geometric"]
+cpu = ["onnxruntime"]
+
+[[tool.uv.index]]
+name = "pytorch-cuda"
+url = "https://download.pytorch.org/whl/cu124"
+explicit = true
+
+[tool.ruff.lint]
+ignore = ["I001", "E401", "N999", "RUF023", "BLE001"]

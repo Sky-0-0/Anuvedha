@@ -1,16 +1,35 @@
-# ENVs
-.env
-
-# Python
+# ------- Python -------
+.venv/
+env/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
 
-# Logs
+# ------- Logs -------
 Logs/
 *.log
 
-# Misc
-.vscode/
+# ------- Tooling, Caches & Language Servers -------
 .Cache/
-*.swp
-*.swo
+.cache/
+.clangd/
+.ccls-cache/
+CACHEDIR.TAG
+
+# ------- Editor & IDE Settings -------
+.vscode/
+.zed/
+*.tmp
+*.bak
+*~
+
+# ------- OS -------
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
